@@ -53,6 +53,8 @@ if (opcionMachine == 3){
         location.reload()
     }
 
+    alert(`Resultado ${resultado}`)
+
     
 
 } else if(opcionMachine == 2){
@@ -90,6 +92,8 @@ if (opcionMachine == 3){
         location.reload()
     }
 
+    alert(`Resultado ${resultado}`)
+
 
 
 } else if(opcionMachine == 1){
@@ -125,6 +129,8 @@ if (opcionMachine == 3){
         alert("Porfavor ingrese una opcion valida")
         location.reload()
     }
+
+    alert(`Resultado ${resultado}`)
 }
 
     
