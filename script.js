@@ -53,7 +53,7 @@ if (opcionMachine == 3){
         location.reload()
     }
 
-    alert(`Resultado ${resultado}`)
+    alert(`Resultado: ${resultado}`)
 
     
 
@@ -92,7 +92,7 @@ if (opcionMachine == 3){
         location.reload()
     }
 
-    alert(`Resultado ${resultado}`)
+    alert(`Resultado: ${resultado}`)
 
 
 
@@ -130,7 +130,7 @@ if (opcionMachine == 3){
         location.reload()
     }
 
-    alert(`Resultado ${resultado}`)
+    alert(`Resultado: ${resultado}`)
 }
 
     
